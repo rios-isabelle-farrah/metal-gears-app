@@ -1,0 +1,45 @@
+.home-details{ 
+    display: flex; 
+    flex-wrap: wrap;
+     flex-direction: column;
+ }
+
+.home-container{
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column; */
+    justify-content: center;
+    /* width: 100%; */
+}
+
+.carousel{
+    background:black;
+    /* border: pink solid 4px; */
+    /* text-align: center;
+    align-items: center; */
+    padding-left: 50px;
+    padding-right: 50px; 
+    color:red;
+    height: 400px;
+}
+
+.shop-button{
+    margin: 25px auto;
+    width: 70px;
+}
+.faders{
+    height:60%;
+    width:60%;
+
+}
+
+.bottom-div{
+    height: 1700px;
+
+    background-color: yellow;
+
+}
+.bottom-div-two{
+    height: 1700px;
+    background-color: grey;
+}
